@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior web developer with hands-on experience in building responsive and fast websites. I'm also a continuous learner, always looking for effective ways to overcome a challenge. In addition, I'm passionate about improving user’s interaction with a website.
+I'm a full stack web developer with hands-on experience in building responsive and fast websites. I'm also a continuous learner, always looking for effective ways to overcome a challenge. In addition, I'm passionate about improving user’s interaction with a website.
 
 ### Languages and Tools:
 
